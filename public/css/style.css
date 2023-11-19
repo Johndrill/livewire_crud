@@ -1,0 +1,41 @@
+
+.container{
+    text-align: center;
+}
+
+.section-form button{
+    background-color: #6e70db;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-decoration: none;
+    font-size: 15px;border-radius: 15%;
+    cursor: pointer;
+}
+
+.search-table{
+    margin-top: 10px;
+}
+
+.section-table{
+    text-align: -webkit-center;
+    margin-top: 10px;
+}
+
+.section-table table{
+    border: 1px solid #72727c;
+    width: 80%;
+    text-align-last: center;
+}
+
+.section-table button:hover{
+    background-color: #6e70db;
+    cursor: pointer;
+}
+
+.section-form p{
+    margin: 0;
+    color: red;
+
+}
+
